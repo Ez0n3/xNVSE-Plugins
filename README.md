@@ -25,6 +25,11 @@ All necessary projects have been migrated to and built with **Visual Studio 2022
 > Currently, when using the SDK lib method, Console_Print does not seem to work. Use the lean solution for now if you need to print to the console.
 
   
+> [!TIP]  
+> See Also:  
+> [NVSE](https://github.com/Ez0n3/NVSE-Plugins)  
+
+  
 [Back to top](#xnvse-plugins)  
   
 ## Construction:  
