@@ -207,7 +207,7 @@ void NVSE_Initialize(void)
 	_MESSAGE("init complete");
 }
 
-// Removed this to avoid conflicts with plugins for VS2020
+// Removed this to avoid conflicts with plugins for VS2022
 /*
 extern "C" 
 {
